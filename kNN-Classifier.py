@@ -5,7 +5,7 @@ from collections import Counter
 
 # Jazwur Ankrah
 # 001027898
-# Machine Learning Assignment 2
+# Machine Learning 
 
 def load_csv(file_path):
     # Load the CSV file into a DataFrame
